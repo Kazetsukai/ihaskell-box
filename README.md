@@ -1,4 +1,6 @@
-# IHaskell Vagrant box
+# IHaskell Vagrant box + Kaze's modifications
+
+(Modified to include Haskell packages I use)
 
 ## Prerequisites
 
